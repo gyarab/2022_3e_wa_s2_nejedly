@@ -1,0 +1,17 @@
+        table{
+            border: 1px solid black;
+        }
+        body {
+            text-align: center;
+        }
+        .square {
+            height: 50px;
+            width: 50px;
+        }
+        .square_black{
+            background-color: black;
+        }
+
+        .square_white{
+            background-color: white;
+        }
